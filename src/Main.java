@@ -13,10 +13,10 @@ public class Main {
         }
         System.out.println(sum);
         if(n==sum){
-            System.out.println("Given int is Armstrong");
+            System.out.println("Given int is Armstrong.");
         }
         else{
-            System.out.println("Given int is not Armstrong");
+            System.out.println("Given int is not Armstrong.");
         }
 
     }
